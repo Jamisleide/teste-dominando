@@ -1,0 +1,1 @@
+ ssid:JN_SANTOS_2G Network_Key:19280914 Security_Type:WPA2
